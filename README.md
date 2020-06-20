@@ -1,12 +1,14 @@
 
 [![Build Status](https://travis-ci.com/diaa3007/QueueSystemSimulation.svg?branch=master)](https://travis-ci.com/diaa3007/QueueSystemSimulation/)
 
-This project is mainly an application on statistics and probability which includes:
+## Abstract**
+
+ This project is mainly an application on statistics and probability which includes:
 - Collecting a sample from a real queue
 - Writing a software to calculate the queue properties and service statistics.
 - Simulating any virtual queue system and calculating it’s statistics. 
 
-This should give us a way to optimize the system by predicting and estimating the effects of any possible change. 
+ This should give us a way to optimize the system by predicting and estimating the effects of any possible change. 
 &nbsp;
 &nbsp;
 
@@ -16,8 +18,6 @@ This should give us a way to optimize the system by predicting and estimating th
 - **Real sample**:
  This command is used to generate a statistics report about the real sample found in the file &quot;convertedRealSample.txt&quot;. It also writes a file for each server containing the timing information for each served customer.
  The server file contains the following columns: CustomerNumber, ArrivalTime, StartTime, EndTime, ServiceTime, WaitTime and QueueLength.   
-&nbsp;
-
  The file &quot;convertedRealSample.txt&quot; must be in the same directory before executing this command.
 
 - **Simulation**:
@@ -36,16 +36,16 @@ Exit the program
 
     1. The user is prompted to enter the following:
 
-- Number of customers  
+- **Number of customers**  
 This is the number of customer at which the simulation ends
 
-- Arrival rate  
+- **Arrival rate**  
 The average number of customers entering the system per hour.
 
-- Number of servers  
+- **Number of servers**  
 Number of servers in the simulted system.
 
-- Service rate of each server.  
+- **Service rate of each server** 
 The average number of customers served by that server per hour.
 &nbsp;
 
