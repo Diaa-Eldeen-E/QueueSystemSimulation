@@ -103,9 +103,9 @@ The software is divided into 5 major files:
 
      Contains the structures and objects used in the project:
 
-	- Customer data structure
-	- Server data structure
-	- Queue system data structure
+	1. Customer data structure
+	2. Server data structure
+	3. Queue system data structure
 
 - **Real sample source file**  
 This file contains the functions responsible for:  
