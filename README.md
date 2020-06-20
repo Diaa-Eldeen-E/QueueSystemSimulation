@@ -1,7 +1,7 @@
 
 [![Build Status](https://travis-ci.com/diaa3007/QueueSystemSimulation.svg?branch=master)](https://travis-ci.com/diaa3007/QueueSystemSimulation/)
 
-## Abstract**
+## **Abstract**
 
  This project is mainly an application on statistics and probability which includes:
 - Collecting a sample from a real queue
@@ -9,6 +9,8 @@
 - Simulating any virtual queue system and calculating it’s statistics. 
 
  This should give us a way to optimize the system by predicting and estimating the effects of any possible change. 
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -45,7 +47,7 @@ The average number of customers entering the system per hour.
 - **Number of servers**  
 Number of servers in the simulted system.
 
-- **Service rate of each server** 
+- **Service rate of each server**  
 The average number of customers served by that server per hour.
 &nbsp;
 
@@ -66,20 +68,20 @@ All of the above numbers must be positive integer numbers.
  A user interface has the following commands:   
 - **Q length at most**:
 Prompts the user for a number x and then prints the probability that a customer enters the system and finds x customers or less in the queue, i.e. P (X ≤ x).
-This number x includes all customers in the queue whether waiting or being served and without considering the order.
+This number x includes all customers in the queue whether waiting or being served and without considering the order.  
 The entered number must be a positive integer value.
 
 - **Q length at least**:
 This Prompts the user for a number x and then prints the probability that a customer enters the system and finds x customers or more in the queue, i.e. P (X ≥ x).
-This number x includes all customers in the queue whether waiting or being served and without considering the order.
+This number x includes all customers in the queue whether waiting or being served and without considering the order.  
  The entered number must be a positive integer value.
 
 - **Wait time at most**:
-Prompts the user for a number x and then prints the probability that a customer enters the system and waits x seconds or less in the queue, i.e. P (X ≤ x).
+Prompts the user for a number x and then prints the probability that a customer enters the system and waits x seconds or less in the queue, i.e. P (X ≤ x).  
 The entered number must be a positive integer value.
 
 - **Wait time at least**:
-Prompts the user for a number x and then prints the probability that a customer enters the system and waits x seconds or more in the queue, i.e. P (X ≥ x).
+Prompts the user for a number x and then prints the probability that a customer enters the system and waits x seconds or more in the queue, i.e. P (X ≥ x).  
 The entered number must be a positive integer value.
 
 - **Exit**:
