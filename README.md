@@ -91,6 +91,9 @@ Exit the program
 - **Back**:
 Go back to the main user interface
 
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 ## **Software structure**  
 
@@ -98,11 +101,11 @@ The software is divided into 5 major files:
 
 - **Data structures header file**  
 
-Contains the structures and objects used in the project:
+     Contains the structures and objects used in the project:
 
-  1. Customer data structure
-  2. Server data structure
-  3. Queue system data structure
+	- Customer data structure
+	- Server data structure
+	- Queue system data structure
 
 - **Real sample source file**  
 This file contains the functions responsible for:  
