@@ -100,11 +100,11 @@ Go back to the main user interface
 The software is divided into 5 major files:  
 
 - **Data structures header file**  
-
-      Contains the structures and objects used in the project:
+     Contains the structures and objects used in the project:
 	1. Customer data structure
 	2. Server data structure
-	3. Queue system data structure
+	3. Queue system data structure  
+
 
 - **Real sample source file**  
 This file contains the functions responsible for:  
@@ -123,14 +123,14 @@ This file contains the functions responsible for:
 		- Reading the data from the sample file
 		- Simulating the servers
 		- Generating detailed timing information for each server
-		- Calculating essential parameters such as _total service time_
+		- Calculating essential parameters such as _total service time_  
 
 - **Statistics and probability source file**   
 	 This file contains the functions responsible for:  
 	1. Calculating the statistics from the data given in the queue data structure
 	2. Calculating the probabilities from the data given in the queue data structure
 	3. Print major statistics and probabilities to a report file
-	4. Provide easy get functions to use in user interface
+	4. Provide easy get functions to use in user interface  
 
 - **User interface source file**   
 	 This file contains the functions responsible for:  
