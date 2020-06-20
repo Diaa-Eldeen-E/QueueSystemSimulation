@@ -1,0 +1,35 @@
+#this ignores a certain folder any where
+
+.settings/
+Debug/
+Release/
+_builds/
+# ---------------------------------------------------------
+
+#this ingores a certain file
+
+*TPscript.ps1
+*Sample.txt
+*stats.txt
+# ---------------------------------------------------------
+
+#this ignores all matching files
+
+
+*Server*
+*.workspace
+*.xml
+*.cproject
+*.project
+*.eep
+*.elf
+*.hex
+*.out
+*.lss
+*.map
+*.srec
+*.d
+*.o
+*.obj
+*.mk
+*.opt
