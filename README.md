@@ -101,8 +101,7 @@ The software is divided into 5 major files:
 
 - **Data structures header file**  
 
-     Contains the structures and objects used in the project:
-
+      Contains the structures and objects used in the project:
 	1. Customer data structure
 	2. Server data structure
 	3. Queue system data structure
@@ -110,30 +109,30 @@ The software is divided into 5 major files:
 - **Real sample source file**  
 This file contains the functions responsible for:  
 
-1. Converting the raw collected sample format into an easier format.
-2. Processing the sample i.e. :  
-  - Reading the data from the sample file
-  - Generating detailed timing information for each server
-  - Calculating essential parameters such as _total service time_
+	1. Converting the raw collected sample format into an easier format.
+	2. Processing the sample i.e. :  
+		- Reading the data from the sample file
+		- Generating detailed timing information for each server
+		- Calculating essential parameters such as _total service time_
   
 - **Simulation source file**  
-This file contains the functions responsible for:  
-1. Generating exponential distribution random variable
-2. Generating a sample file of arrival times
-3. Processing that sample file i.e. :
-  - Reading the data from the sample file
-  - Simulating the servers
-  - Generating detailed timing information for each server
-  - Calculating essential parameters such as _total service time_
+	 This file contains the functions responsible for:  
+	1. Generating exponential distribution random variable
+	2. Generating a sample file of arrival times
+	3. Processing that sample file i.e. :
+		- Reading the data from the sample file
+		- Simulating the servers
+		- Generating detailed timing information for each server
+		- Calculating essential parameters such as _total service time_
 
 - **Statistics and probability source file**   
-This file contains the functions responsible for:  
-1. Calculating the statistics from the data given in the queue data structure
-2. Calculating the probabilities from the data given in the queue data structure
-3. Print major statistics and probabilities to a report file
-4. Provide easy get functions to use in user interface
+	 This file contains the functions responsible for:  
+	1. Calculating the statistics from the data given in the queue data structure
+	2. Calculating the probabilities from the data given in the queue data structure
+	3. Print major statistics and probabilities to a report file
+	4. Provide easy get functions to use in user interface
 
 - **User interface source file**   
-This file contains the functions responsible for:  
-1. User interface
-2. Initializing the queue system
+	 This file contains the functions responsible for:  
+	1. User interface
+	2. Initializing the queue system
