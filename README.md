@@ -17,11 +17,12 @@
 
 
 ## **Usage example:**  
-### **Simulation example:**
-![Simulation pic](https://ibb.co/PNdRYqx)  
+### **Simulation input:**
+![Simulation picture](https://github.com/diaa3007/QueueSystemSimulation/blob/master/sim.png?raw=true)  
+
 
 ### **Output:**  
-![Simulation pic](https://ibb.co/BB3514s)  
+![Output picture](https://ibb.co/BB3514s)  
 
 &nbsp;
 &nbsp; 
