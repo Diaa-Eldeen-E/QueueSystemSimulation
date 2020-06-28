@@ -22,7 +22,7 @@
 
 
 ### **Output:**  
-![Output picture](https://github.com/diaa3007/QueueSystemSimulation/blob/master/img/out.png)  
+![Output picture](https://github.com/diaa3007/QueueSystemSimulation/blob/master/img/out.png?raw=true)  
 
 &nbsp;
 &nbsp; 
