@@ -16,6 +16,16 @@
 &nbsp;  
 
 
+## **Usage example:**  
+### **Simulation example:**
+![Simulation pic](https://ibb.co/PNdRYqx)  
+
+### **Output:**  
+![Simulation pic](https://ibb.co/BB3514s)  
+
+&nbsp;
+&nbsp; 
+
 ## **User interface commands:**
 
 - **Real sample**:
