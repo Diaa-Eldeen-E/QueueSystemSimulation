@@ -18,11 +18,11 @@
 
 ## **Usage example:**  
 ### **Simulation input:**
-![Simulation picture](https://github.com/diaa3007/QueueSystemSimulation/img/master/sim.png?raw=true)  
+![Simulation picture](https://github.com/diaa3007/QueueSystemSimulation/blob/master/img/sim.png?raw=true)  
 
 
 ### **Output:**  
-![Output picture](https://github.com/diaa3007/QueueSystemSimulation/master/out.png?raw=true)  
+![Output picture](https://github.com/diaa3007/QueueSystemSimulation/blob/master/img/out.png)  
 
 &nbsp;
 &nbsp; 
