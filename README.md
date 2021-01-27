@@ -45,36 +45,32 @@
 	Using this command before real sample or simulation command gives an error.
 
 	- **Exit:**   
-	Exit the program
+	Exit the program.
 
 &nbsp;
 
 - ### **Simulation menu**
 
-    1. The user is prompted to enter the following:
+    - The user is prompted to enter the following:
 
-	- **Number of customers**  
-	This is the number of customer at which the simulation ends
+		- **Number of customers**  
+		This is the number of customer at which the simulation ends.
 
-	- **Arrival rate**  
-	The average number of customers entering the system per hour.
+		- **Arrival rate**  
+		The average number of customers entering the system per hour.
 
-	- **Number of servers**  
-	Number of servers in the simulted system.
+		- **Number of servers**  
+		Number of servers in the simulted system.
 
-	- **Service rate of each server**  
-	The average number of customers served by that server per hour.
-&nbsp; 
+		- **Service rate of each server**  
+		The average number of customers served by that server per hour.
 
-	All of the above numbers must be positive integer numbers.
+    - The program then produces the following:
 
-
-    2. The program then produces the following:
-
-	- A statistics report which describes that specified system.
-	- A file containing all the customers arrival times
-	- A file for each server containing the timing information for each customer served by that server.
-	The server file contains the following columns: CustomerNumber, ArrivalTime, StartTime, EndTime, ServiceTime, WaitTime and QueueLength.
+		- A statistics report which describes that specified system.
+		- A file containing all the customers arrival times.
+		- A file for each server containing the timing information for each customer served by that server.
+		The server file contains the following columns: CustomerNumber, ArrivalTime, StartTime, EndTime, ServiceTime, WaitTime and QueueLength.
 
 &nbsp;
 &nbsp;
@@ -100,10 +96,10 @@
 	The entered number must be a positive integer value.
 
 	- **Exit:**  
-	Exit the program
+	Exit the program.
 
 	- **Back:**  
-	Go back to the main user interface
+	Go back to the main user interface.
 
 &nbsp;  
 &nbsp;  
