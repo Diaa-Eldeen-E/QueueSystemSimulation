@@ -32,24 +32,24 @@
 
 - ### **Main menu** 
 
-	- **Real sample**: 
+	- **Real sample:**   
 	This command is used to generate a statistics report about the real sample found in the file &quot;convertedRealSample.txt&quot;. It also writes a file for each server containing the timing information for each served customer.
 	The server file contains the following columns: CustomerNumber, ArrivalTime, StartTime, EndTime, ServiceTime, WaitTime and QueueLength.   
 	The file &quot;convertedRealSample.txt&quot; must be in the same directory before executing this command.
 
-	- **Simulation**: 
+	- **Simulation:**   
 	This command is used to enter the simulation program.
 
-	- **Probability**: 
+	- **Probability:**   
 	This command is used to enter the probability calculator program.
 	Using this command before real sample or simulation command gives an error.
 
-	- **Exit**: 
+	- **Exit:**   
 	Exit the program
 
 &nbsp;
 
-- ### **Simulation menu:**
+- ### **Simulation menu**
 
     1. The user is prompted to enter the following:
 
@@ -79,31 +79,30 @@
 &nbsp;
 &nbsp;
 
-- ##@ **Probability menu**:  
+- ### **Probability menu**:  
 
-	A user interface has the following commands:   
-	- **Q length at most**:
+	- **Q length at most:**  
 	Prompts the user for a number x and then prints the probability that a customer enters the system and finds x customers or less in the queue, i.e. P (X ≤ x).
 	This number x includes all customers in the queue whether waiting or being served and without considering the order.  
 	The entered number must be a positive integer value.
 
-	- **Q length at least**:
+	- **Q length at least:**  
 	This Prompts the user for a number x and then prints the probability that a customer enters the system and finds x customers or more in the queue, i.e. P (X ≥ x).
 	This number x includes all customers in the queue whether waiting or being served and without considering the order.  
 	The entered number must be a positive integer value.
 
-	- **Wait time at most**:
+	- **Wait time at most:**  
 	Prompts the user for a number x and then prints the probability that a customer enters the system and waits x seconds or less in the queue, i.e. P (X ≤ x).  
 	The entered number must be a positive integer value.
 
-	- **Wait time at least**:
+	- **Wait time at least:**  
 	Prompts the user for a number x and then prints the probability that a customer enters the system and waits x seconds or more in the queue, i.e. P (X ≥ x).  
 	The entered number must be a positive integer value.
 
-	- **Exit**:
+	- **Exit:**  
 	Exit the program
 
-	- **Back**:
+	- **Back:**  
 	Go back to the main user interface
 
 &nbsp;  
