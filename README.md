@@ -67,10 +67,15 @@
 
     - The program then produces the following:
 
-		- A statistics report which describes that specified system.
-		- A file containing all the customers arrival times.
-		- A file for each server containing the timing information for each customer served by that server.
-		The server file contains the following columns: CustomerNumber, ArrivalTime, StartTime, EndTime, ServiceTime, WaitTime and QueueLength.
+		- **Statistics report**  
+		Describes the specified queue system.
+		
+		- **Customers text file** 
+		Contains all the customers arrival times (Could be analyzed or plotted by MATLAB or Python).
+		
+		- **Server text file** 
+		A file for each server containing the timing information for each customer served by that server.
+		The server file contains the following information: CustomerNumber, ArrivalTime, StartTime, EndTime, ServiceTime, WaitTime and QueueLength (Could be analyzed or plotted by MATLAB or Python).
 
 &nbsp;
 &nbsp;
